@@ -2,6 +2,9 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7381612.svg)](https://doi.org/10.5281/zenodo.7381612)
 
+> This repository constitutes the reproduction package of Chapter 4 of the PhD. Thesis titled `Hunting Bugs: A study of the change history of open-source software projects and its application to the detection of how these changes introduce bugs`, written by Michel Maes Bermejo. 
+This repository is a fork of the repository that contained the original reproduction package submitted to Empirical Software Engineering (to avoid conflicts with the current review).
+
 Reproduction package for the paper "Hunting bugs: Towards an automated approach to identifying which change caused a bug through regression testing", sent to EMSE Journal (still under review). 
 
 This repository contains the tool that allows, from a commit that fixes a bug and a test that reveals this bug, to find the commit that introduced the bug. 
